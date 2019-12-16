@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "741013811772",
+    "firebase_url": "https://test-fe748.firebaseio.com",
+    "project_id": "test-fe748",
+    "storage_bucket": "test-fe748.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:741013811772:android:4bf1042da54b55b9938939",
+        "android_client_info": {
+          "package_name": "com.example.mikeygresl.TripleJong"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "741013811772-mchm70pr5q43onth99r7vmbegjce8o32.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCW0rM3oyIqkiZ7Z_2yAGYUu-NW5GQiGg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "741013811772-mchm70pr5q43onth99r7vmbegjce8o32.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

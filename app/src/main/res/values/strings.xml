@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">사랑방</string>
+    <string name="password">비밀번호</string>
+    <string name="email">이메일</string>
+    <string name="sign_in">로그인</string>
+    <string name="sign_up">회원가입</string>
+    <string name="first_name">성</string>
+    <string name="last_name">이름</string>
+    <string name="contacts">Contacts</string>
+    <string name="message">메세지</string>
+    <string name="chats">채팅</string>
+    <string name="full_name">Full Name</string>
+    <string name="email_address">이메일 주소</string>
+    <string name="search_for_users">사용자 검색</string>
+</resources>
