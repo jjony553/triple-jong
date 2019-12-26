@@ -1,6 +1,12 @@
 # triple-jong
 딥 러닝 기반으로 한 사용자 간 매칭 안드로이드 애플리케이션
 
+## 개발 도구
+* 안드로이드 스튜디오
+* Python
+* Tensorflow
+* Firebase
+
 ## 앱 스크린샷
 <div>
   <img src="https://user-images.githubusercontent.com/55618626/70730157-d44e3480-1d47-11ea-8284-f7dae3d86831.png"> 
